@@ -1,0 +1,26 @@
+name: Generar Reto Diario TintIQ
+
+on:
+  schedule:
+    # Cada día a las 23:30 hora España (21:30 UTC)
+    - cron: '30 21 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente también
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install firebase-admin
+
+      - name: Generar reto diario
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: python generate_challenge.py
