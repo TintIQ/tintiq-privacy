@@ -96,7 +96,19 @@ Conservamos tus datos mientras mantengas una cuenta activa en TintIQ. Si deseas 
 
 ---
 
-## 8. Derechos del usuario
+## 8. Eliminación de cuenta y datos
+
+Para solicitar la eliminación de tu cuenta y todos los datos asociados, envía un correo a **nordbitstudios@hotmail.com** indicando tu nombre de usuario de Google.
+
+Eliminaremos los siguientes datos en un plazo máximo de 30 días:
+- Perfil de usuario (nombre, foto, correo)
+- Historial de partidas y puntuaciones
+- Membresía en grupos
+- Racha diaria y estadísticas
+
+---
+
+## 9. Derechos del usuario
 
 De acuerdo con el Reglamento General de Protección de Datos (RGPD) y la legislación española aplicable, tienes derecho a:
 
@@ -110,19 +122,19 @@ Para ejercer cualquiera de estos derechos, contáctanos en: **tintIQ2026@hotmail
 
 ---
 
-## 9. Privacidad de menores
+## 10. Privacidad de menores
 
 TintIQ no está dirigida a menores de 13 años. No recopilamos conscientemente información personal de menores de 13 años. Si eres padre o tutor y crees que tu hijo nos ha proporcionado información personal, contáctanos para eliminarla.
 
 ---
 
-## 10. Cambios en esta política
+## 11. Cambios en esta política
 
 Podemos actualizar esta Política de Privacidad ocasionalmente. Te notificaremos cualquier cambio significativo mediante una actualización de la aplicación o un aviso dentro de la misma. Te recomendamos revisar esta política periódicamente.
 
 ---
 
-## 11. Contacto
+## 12. Contacto
 
 Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos en:
 
